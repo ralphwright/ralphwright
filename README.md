@@ -1,6 +1,6 @@
 ### Hello World! I'm Ralph
-- 🔭 I’m currently learning operating systems as well as data structures and algorithms
-- 👯 I’m looking to collaborate on open source
+- 🔭 I’m currently studying Java as well as data structures and algorithms.
+- 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything!
 - ⚡ Fun fact: I won number 1 in sales while working at La-Z-Boy in 2016.
 
