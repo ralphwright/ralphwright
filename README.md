@@ -7,7 +7,6 @@
 ### Talk to me, I talk back:
 📫 [Linkedin](https://www.linkedin.com/in/ralph-wright-engineer)
 <br />
-✍ [Portfolio](http://ralphwrightengineer.com/)
 
 <br />
 <br />
