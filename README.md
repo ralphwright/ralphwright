@@ -1,7 +1,7 @@
 ### Hello World! I'm Ralph
-- 🔭 I’m currently studying AWS as well as data structures and algorithms.
+- 🔭 I’m currently studying networking and building projects in Packet Tracer.
 - 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about ... Anything!
+- 💬 Ask me about ... how to use Agentic AI and how to incorporate it into your workflow to learn anything you want.
 - ⚡ Fun fact: I won number 1 in sales while working at La-Z-Boy in 2016.
 
 ### Talk to me, I talk back:
